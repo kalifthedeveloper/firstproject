@@ -12,7 +12,7 @@ header {
     letter-spacing: 1pc;
   }
 
-  h2 {
+  h2,h3 {
         display: block;
         font-size: 40px;
   }
